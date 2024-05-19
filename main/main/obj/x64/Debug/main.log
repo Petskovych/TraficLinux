@@ -1,0 +1,10 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.0.107'
+  Validating architecture
+  Validating architecture
+C:\Program Files\Microsoft Visual Studio\2022\Preview\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(203,5): warning : Current project architecture 'x64' is incompatible with the remote system architecture 'ARM64' ('aarch64'). Please switch the project architecture to 'ARM64' in Configuration Manager. If you are cross-compiling you can ignore this warning.
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  main.vcxproj -> C:\Users\user\Desktop\linuxTraffic\main\main\bin\x64\Debug\main.out
