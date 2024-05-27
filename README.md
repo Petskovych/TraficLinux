@@ -1,4 +1,4 @@
-# TraficLinux
+# TrafficLinux
 
 This program is written in C++ and is designed to monitor network traffic on a computer. Here's how the program works:
 
